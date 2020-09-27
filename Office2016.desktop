@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=Office2016
+Comment=Starts the VirtualBox machine Office2016
+Type=Application
+Exec=/usr/lib/virtualbox/VirtualBoxVM --comment "Office2016" --startvm "{f8da4df0-718f-4f66-b234-21ed46b2723e}"
+Icon=virtualbox-vbox.png
